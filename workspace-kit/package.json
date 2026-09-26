@@ -1,0 +1,9 @@
+{
+  "name": "nexjyoti-workspace-kit",
+  "private": true,
+  "description": "Google Apps Script kit: NexJyoti member register, report review chain and sign-off",
+  "scripts": {
+    "test": "node --test",
+    "push": "clasp push"
+  }
+}
